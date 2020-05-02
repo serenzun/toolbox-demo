@@ -15,14 +15,14 @@ Run this code chunk one time only to install packages you don't already have. Th
 
 ```{r install packages, eval=FALSE}
 ## install packages from R community
-install.packages("tidyverse")
-install.packages("zoo")
-install.packages("here")
-install.packages("devtools")
-
-## install the ohicore package from OHI team
-devtools::install_github('ohi-science/ohicore@dev')
-```
+#install.packages("tidyverse")
+#install.packages("zoo")
+#install.packages("here")
+#install.packages("devtools")
+#
+### install the ohicore package from OHI team
+#devtools::install_github('ohi-science/ohicore@dev')
+#```
 
 ## Load R packages
 
